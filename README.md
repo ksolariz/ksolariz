@@ -1,4 +1,4 @@
-## Salveee, eu sou o Kauê e curto estudar programação !!!
+## Salveee, eu sou o Kauê e amo programação, principalmente desenvolver API's e integrações !!!
 <div align="center">
   <a href="https://github.com/ksolariz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ksolariz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
